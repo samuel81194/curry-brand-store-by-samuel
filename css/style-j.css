@@ -290,3 +290,26 @@
       .hud     { gap: 10px; }
       #tablero { gap: 8px; padding: 16px 10px 40px; }
     }
+
+    #btn-inicio {
+
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  background-color: var(--color-inicio);
+  color: white;
+  border: none;
+  padding: 10px 22px;
+  border-radius: 50px;
+  font-size: 0.95rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: transform 0.2s, background-color 0.2s;
+
+}
+
+#btn-inicio:hover {
+  background-color: #a8401e;
+  transform: translateY(-1px);  
+
+}
