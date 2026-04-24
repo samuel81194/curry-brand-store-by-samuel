@@ -48,7 +48,7 @@
   /* ── SECCIONES NORMALES ── */
   .seccion-contenido {
     padding: 80px 40px;
-    background: #f5f5f5;
+    background: #ffe134;
     text-align: center;
     min-height: 50vh;
     display: flex;
@@ -65,11 +65,11 @@
 
   .seccion-contenido p {
     max-width: 600px;
-    color: #fff7f7;
+    color: #000000;
     line-height: 1.7;
   }
   .scroll {
-    background-image: url("https://about.underarmour.com/content/ua/about/es/stories/2022/08/curry-camp-returns-to-bring-top-youth-talent-together-in-san-fra/_jcr_content/root/container/container/image.coreimg.jpg");
+    background-image: url("https://i0.wp.com/rakuten.today/wp-content/uploads/2019/06/image001-2.jpg?fit=1500%2C1000&ssl=1");
     background-attachment: scroll; /* default: la imagen viaja con el elemento */
   }
 
@@ -82,6 +82,7 @@
     cursor: pointer;
     font-size: 1rem;
     transition: background 0.3s;
+    
   }
 
   .boton-nav:hover {
@@ -91,7 +92,7 @@
 
   /* ── SECCIONES PARALLAX ── */
   .parallax {
-    background-attachment: fixed;  /* ← la magia */
+    background-attachment: fixed;  
     background-size: cover;
     background-position: center;
     min-height: 100vh;
@@ -106,12 +107,12 @@
   }
 
   #segunda {
-    background-image: url('https://tether.com/wp-content/uploads/2022/04/curry-brand-15l-scaled.jpg');
+    background-image: url('https://www.sportsbusinessjournal.com/resizer/v2/UFHJEWZCETIOSIEQRTK3WRTHFY.jpg?auth=8a9bbc4fc4257c0b3a30b44933f82ad2d9591ab49061b66c61ca945f4b2ecba4&width=800&height=533');
   }
 
   /* Texto encima del parallax */
   .parallax-texto {
-    background: rgba(0, 0, 0, 0.5);
+    background: #f6c70daf;;
     color: white;
     padding: 40px 60px;
     border-radius: 12px;

@@ -2,12 +2,12 @@
 :root {
       --bg:        #0f0e17; /* Color de fondo oscuro */
       --surface:   #1a1828; /* Color de superficie para modales y cartas */
-      --card-back: #252338; /* Color del reverso de la carta */
+      --card-back: #bb980b9f; /* Color del reverso de la carta */
       --accent:    #f6c90e; /* Color de acento (amarillo) para resaltar elementos */
       --found:     #2ecc71; /* Verde para indicar que se encontró un par */
       --danger:    #ff6b6b; /* Rojo para advertencias (como el timer agotándose) */
       --text:      #fffffe; /* Color de texto principal */
-      --muted:     #a7a9be; /* Color de texto secundario/apagado */
+      --muted:     #ffffff; /* Color de texto secundario/apagado */
       --radius:    14px;    /* Radio de las esquinas redondeadas */
     }
 
