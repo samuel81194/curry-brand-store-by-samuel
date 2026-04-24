@@ -14,7 +14,7 @@
     position: fixed;
     top: 0;
     width: 100%;
-    background: rgba(0, 0, 0, 0.9);
+    background:#f6c70d7c;
     display: flex;
     justify-content: center;
     gap: 30px;
@@ -39,10 +39,10 @@
     background: transparent;
     color: white;
     text-decoration: none;
-    border-radius: 6px;
+    border-radius: 10px;
     font-size: 1rem;
   }
-  nav button:hover { background: #f0c040; color: #222; }
+  nav button:hover { background: #222; color: #ffffff; }
 
 
   /* ── SECCIONES NORMALES ── */
@@ -65,11 +65,11 @@
 
   .seccion-contenido p {
     max-width: 600px;
-    color: #666;
+    color: #fff7f7;
     line-height: 1.7;
   }
   .scroll {
-    background-image: url("https://wallpapercg.com/media/ts_orig/12749.webp");
+    background-image: url("https://about.underarmour.com/content/ua/about/es/stories/2022/08/curry-camp-returns-to-bring-top-youth-talent-together-in-san-fra/_jcr_content/root/container/container/image.coreimg.jpg");
     background-attachment: scroll; /* default: la imagen viaja con el elemento */
   }
 
@@ -106,7 +106,7 @@
   }
 
   #segunda {
-    background-image: url('https://wallpapercg.com/media/ts_orig/12749.webp');
+    background-image: url('https://tether.com/wp-content/uploads/2022/04/curry-brand-15l-scaled.jpg');
   }
 
   /* Texto encima del parallax */
